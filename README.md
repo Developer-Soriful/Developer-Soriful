@@ -14,20 +14,19 @@
 
 <!-- 🧠 Code Snippet Block -->
 ```js
-// 🔍 Problem: Find the first non-repeating character in a string
-function firstUniqueChar(str) {
-  const charCount = {};
-  for (let char of str) {
-    charCount[char] = (charCount[char] || 0) + 1;
+// 🔍 Problem: Check if a number is a prime number
+function isPrime(num) {
+  if (num <= 1) return false;
+  for (let i = 2; i <= Math.sqrt(num); i++) {
+    if (num % i === 0) return false;
   }
-  for (let i = 0; i < str.length; i++) {
-    if (charCount[str[i]] === 1) return str[i];
-  }
-  return null;
+  return true;
 }
 
 // Example
-console.log(firstUniqueChar("developer")); // Output: "d"
+console.log(isPrime(17)); // Output: true
+console.log(isPrime(18)); // Output: false
+
 ```
 <!-- About Me -->
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px;">👨‍💻 About Me</h2>
