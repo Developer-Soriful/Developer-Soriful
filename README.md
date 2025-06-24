@@ -12,22 +12,11 @@
 
 <br/>
 
-<!-- 🧠 Code Snippet Block -->
-```js
-// 🔍 Problem: Check if a number is a prime number
-function isPrime(num) {
-  if (num <= 1) return false;
-  for (let i = 2; i <= Math.sqrt(num); i++) {
-    if (num % i === 0) return false;
-  }
-  return true;
-}
 
-// Example
-console.log(isPrime(17)); // Output: true
-console.log(isPrime(18)); // Output: false
-
-```
+<!-- img -->
+<div>
+<img src="https://i.imgur.com/a0xeHVe.jpeg" 
+</div>
 <!-- About Me -->
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px;">👨‍💻 About Me</h2>
 
