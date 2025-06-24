@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/TjxHRWr.jpeg" width="200" alt="Md Soriful Islam" style="border-radius:50%;" />
+  <img src="https://i.imgur.com/64CgNRj.png" width="200" alt="Md Soriful Islam" style="border-radius:50%;" />
 </p>
 
 <p align="center">
