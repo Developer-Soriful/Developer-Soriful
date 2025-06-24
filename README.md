@@ -34,30 +34,14 @@ console.log(isPrime(18)); // Output: false
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Junior+MERN+Stack+Developer;Web+Lover+%26+Tech+Explorer;Passionate+about+Clean+Code+%26+UI/UX" alt="Typing SVG" />
 </p>
-
-<p align="center" style="font-size: 16px; line-height: 1.8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🧠 I began my programming journey <strong>2 years ago</strong> with <strong>C/C++</strong>, where I developed core problem-solving skills and logical thinking. 
+<p align="center">
+  🔭 I’m currently working with <strong>MERN Stack</strong> <br/>
+  🌱 I’m currently learning <strong>Next.js </strong> <br/>
+  👯 I’m looking to collaborate on <strong>Real-world SaaS Projects</strong> <br/>
+  💬 Ask me about <strong>React, Firebase, MongoDB</strong> <br/>
+  📫 How to reach me: <strong>454250soruful@gmail.com</strong> <br/>
 </p>
 
-<p align="center" style="font-size: 16px; line-height: 1.8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  💡 But soon, I discovered my real passion lies in <strong>web development</strong>. It felt like home, and I’ve never looked back since.
-</p>
-
-<p align="center" style="font-size: 16px; line-height: 1.8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🔧 Today, I work as a <strong>Junior MERN Stack Developer</strong> — building full-stack applications using <strong>React</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, and <strong>Firebase</strong>.
-</p>
-
-<p align="center" style="font-size: 16px; line-height: 1.8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🔍 I’m always curious to <strong>explore new technologies</strong> — it's a kind of excitement I don’t get from anything else!
-</p>
-
-<p align="center" style="font-size: 16px; line-height: 1.8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🎯 My goal is to create <em>beautiful, fast, and accessible</em> digital experiences with clean UI and efficient code.
-</p>
-
-<p align="center" style="font-size: 16px; line-height: 1.8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🤝 I'm always open to collaboration, learning from others, and contributing to impactful projects.
-</p>
 
 ---
 
