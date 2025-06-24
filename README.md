@@ -7,7 +7,7 @@
 <!-- 💻 Developer Role Line -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" alt="Coding" />
-  &nbsp;<strong>Passionate Full Stack Developer | MERN Enthusiast</strong>
+  &nbsp;<strong>Passionate Mern Stack Developer | MERN Enthusiast</strong>
 </h3>
 
 <br/>
