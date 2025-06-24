@@ -15,7 +15,7 @@
 
 <!-- img -->
 <div>
-<img src="https://i.imgur.com/a0xeHVe.jpeg" 
+<img src="https://i.imgur.com/oE7D6mN.jpeg" 
 </div>
 <!-- About Me -->
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px;">👨‍💻 About Me</h2>
