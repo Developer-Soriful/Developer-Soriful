@@ -12,10 +12,18 @@
 <br/>
 
 
-<!-- img -->
-<div>
-<img src="https://i.imgur.com/oE7D6mN.jpeg" 
-</div>
+```ts
+// 💻 About ME with code
+const developer = {
+  name: "Md Soriful Islam",
+  role: "Front-End Passionate Developer",
+  -------
+  passion: "Crafting beautiful, interactive, and performant user interfaces.",
+  goal: "To become an industry-level frontend expert and build impactful web applications.",
+};
+
+export default developer;
+```
 <!-- About Me -->
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px;">👨‍💻 About Me</h2>
 
