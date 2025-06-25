@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Soriful+Islam;Full+Stack+Web+Developer+%7C+React+%2B+Node+%2B+MongoDB;Building+Scalable+and+Efficient+Web+Applications;Passionate+about+Clean+Code+and+Continuous+Learning" alt="Typing Header" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Soriful+Islam;Full+Stack+Web+Developer+%7C+React+%2B+Node+%2B+MongoDB;Building+Scalable+and+Efficient+Web+Applications;Passionate+about+Clean+Code+and+Continuous+Learning" alt="Typing Header" />
 </h1>
 
 
