@@ -26,10 +26,6 @@ export default developer;
 ```
 <!-- About Me -->
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px;">👨‍💻 About Me</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Junior+MERN+Stack+Developer;Web+Lover+%26+Tech+Explorer;Passionate+about+Clean+Code+%26+UI/UX" alt="Typing SVG" />
-</p>
 <p align="center">
   🔭 I’m currently working with <strong>MERN Stack</strong> <br/>
   🌱 I’m currently learning <strong>Next.js </strong> <br/>
