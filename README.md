@@ -28,7 +28,7 @@ export default developer;
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px;">👨‍💻 About Me</h2>
 <p align="center">
   🔭 I’m currently working with <strong>MERN Stack</strong> <br/>
-  🌱 I’m currently learning <strong>Next.js </strong> <br/>
+  🌱 I’m currently learning <strong>Mern </strong> <br/>
   👯 I’m looking to collaborate on <strong>Real-world SaaS Projects</strong> <br/>
   💬 Ask me about <strong>React, Firebase, MongoDB</strong> <br/>
   📫 How to reach me: <strong>454250soruful@gmail.com</strong> <br/>
