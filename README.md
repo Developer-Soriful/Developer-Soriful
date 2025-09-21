@@ -22,7 +22,7 @@
   🌱 I’m currently learning <strong>Mern & Next.js </strong> <br/>
   👯 I’m looking to collaborate on <strong>Real-world SaaS Projects</strong> <br/>
   💬 Ask me about <strong>React, Firebase, MongoDB</strong> <br/>
-  📫 How to reach me: <strong>454250soruful@gmail.com</strong> <br/>
+  📫 How to reach me: <strong>454250soriful@gmail.com</strong> <br/>
 </p>
 
 
