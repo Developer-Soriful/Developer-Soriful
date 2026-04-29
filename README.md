@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://ibb.co.com/gCN7cbp" alt="MERN Stack Developer Banner" />
+  <img src="https://i.ibb.co.com/JPVdSW4/Chat-GPT-Image-Apr-29-2026-03-22-25-PM.png" alt="MERN Stack Developer Banner" />
 </p>
 <!-- About Me -->
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px;">👨‍💻 About Me</h2>
