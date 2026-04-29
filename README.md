@@ -5,7 +5,7 @@
 
 <!-- 💻 Developer Role Line -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" alt="Coding" />
+  <img src="https://i.ibb.co.com/R4T0qCvc/Chat-GPT-Image-Apr-29-2026-03-20-05-PM.png" width="40" alt="Coding" />
   &nbsp;<strong>MERN Enthusiast</strong>
 </h3>
 
